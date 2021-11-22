@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run ./marks_shower.py
+web: sh setup.sh && streamlit run ./marks_shower.py --theme.base dark
